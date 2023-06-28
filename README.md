@@ -11,3 +11,9 @@ The recommendation system was based on the content of the game. All the relevant
 If the user history would be provided would be possible to detect the user space in which the user can be inserted. In this case the user history was not provided and therefore, it was created manually. 
 
 Another alternative for creating a group of similar games is to use the Convex Hull method, which creates a convex shape that contains certain games that have similar characteristics to those required as a whole.![Convex_Hull](https://github.com/Edoardo24/Video-game-recommendation-system/assets/46709461/95a84612-91b8-4aa4-9fb3-3525034cb254)
+
+
+## Author
+- Edoardo Berardi Vittur
+- Ali Yassine
+- Ethan Greene
